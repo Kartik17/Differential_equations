@@ -1,4 +1,4 @@
-# Modelling of BLDC Motor
+# Modelling of Motors
 
 Folder contains modelling of DC, BLDC , and Stepper Motor. The model for the simulation for the respective motor are based on the following references:
 1) DC - 
