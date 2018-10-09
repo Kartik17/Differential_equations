@@ -11,6 +11,7 @@ Reference: Lec 2 | MIT 18.03 Differential Equations, Spring 2006 (https://www.yo
 # Verifying the Model
 
 ### DC Motor
+![](DC_motor.png)
 
 ### BLDC Motor
 
