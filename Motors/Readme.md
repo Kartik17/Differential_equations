@@ -14,6 +14,19 @@ Reference: Lec 2 | MIT 18.03 Differential Equations, Spring 2006 (https://www.yo
 
 #### Parameters:
 
+V = 24
+    R = 10
+    L = 0.24
+    b = 0.000001
+    kb = 0.02
+    kt = 0.02
+    I_motor = 9e-6
+    I_load = 0.
+    N = 1
+    n = 1
+    delta_t = 0.001
+    T_load = 0.
+
 ![](DC_motor.png)
 
 
