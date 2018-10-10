@@ -11,8 +11,28 @@ Reference: Lec 2 | MIT 18.03 Differential Equations, Spring 2006 (https://www.yo
 # Verifying the Model
 
 ### DC Motor
+
+#### Parameters:
+
 ![](DC_motor.png)
 
+
+#### Parameters(As per reference)
+
+V = 6.
+R = 12.50
+L = 0.091e-3
+b = 1.38e-8
+kb = 1.05e-3
+kt = 1.05e-3
+I_motor = 0.005e-7
+I_load = 0.
+N = 1
+n = 1
+delta_t = L/(R*4)
+T_load = 0.
+
+![](DC_motor_Validation.png)
 ### BLDC Motor
 
 
