@@ -48,4 +48,26 @@ T_load = 0.
 ![](DC_motor_Validation.png)
 ### BLDC Motor
 
+#### Parameters(As per reference)
 
+V = 6.
+R(Phase to Phase) = 12.50
+L(Phase to Phase)  = 0.091e-3
+b = 1.38e-8
+kb = 1.05e-3
+kt = 1.05e-3
+I_motor = 0.005e-7
+I_load = 0.
+N = 1
+n = 1
+delta_t = L/(R*4)
+T_load = 0.
+
+Torque Vs Time
+
+![](torque_time.png)
+
+
+Phase Current Vs Time
+
+![](PHASE_CURRENT.png)
